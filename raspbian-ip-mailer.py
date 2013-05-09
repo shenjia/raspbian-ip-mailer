@@ -14,7 +14,7 @@ def success():
 def fail():
     os.system( '. /lib/lsb/init-functions; log_end_msg 1');
 
-# Mail account settnings
+# Mail account settings
 send_to = 'username@gmail.com'
 gmail_user = 'username@gmail.com'
 gmail_password = 'password'
