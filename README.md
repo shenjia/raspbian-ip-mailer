@@ -7,6 +7,7 @@ This version can:
 
 1. Try several times to connect smtp server, because the Wifi may be not ready yet.
 2. Print progress infomation while connect, login and sending mail.
+3. Install as a service automatically.
 
 Deploy
 ---------------------
