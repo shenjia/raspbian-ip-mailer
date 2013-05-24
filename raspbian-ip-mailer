@@ -9,7 +9,7 @@
 
 . /lib/lsb/init-functions
 
-MAILER=/usr/local/bin/ip-mailer.py
+MAILER=/usr/local/bin/raspbian-ip-mailer.py
 
 case "$1" in
     start)
